@@ -19,7 +19,10 @@ static class Example
         GUILayout.FlexibleSpace();
         GUILayout.BeginHorizontal();
         GUILayout.FlexibleSpace();
-        GUILayout.BeginVertical();
+        var c = GUI.color;
+        GUI.color = Color.black;
+        GUILayout.BeginVertical(GUI.skin.box);
+        GUI.color = c;
 
         var f = EditorStyles.label.fontSize;
         EditorStyles.label.fontSize = 16;
