@@ -1,5 +1,5 @@
-# [Name] example
-An example for Advanced Scene Manager that shows how to make a [quick description].
+# Level select example
+An example for Advanced Scene Manager that shows how to setup a simple level select menu.
 
 Usage:
 1. Clone
