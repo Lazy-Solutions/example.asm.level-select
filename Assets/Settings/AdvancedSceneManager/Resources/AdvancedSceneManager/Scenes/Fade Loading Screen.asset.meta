@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 3c4a67b4764ec6042bc1c0d7e254176f
+guid: 11d3985388c65714a8b32d79c11a5041
 labels:
-- ASM:Level_1
-- ASM:Level_2
+- ASM:LoadingScreen
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 0
+  mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 

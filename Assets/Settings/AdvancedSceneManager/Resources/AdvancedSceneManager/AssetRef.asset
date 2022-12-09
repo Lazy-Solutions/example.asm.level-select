@@ -12,11 +12,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a744da6216a3f214fa94c8752792e9b5, type: 3}
   m_Name: AssetRef
   m_EditorClassIdentifier: 
-  profiles: []
-  scenes: []
-  collections: []
-  m_settings: {fileID: 0}
-  m_collectionManager: {fileID: 0}
-  m_standaloneManager: {fileID: 0}
-  m_sceneHelper: {fileID: 0}
-  m_addressablesAddressMappings: {fileID: 0}
+  profiles:
+  - {fileID: 11400000, guid: 1b2894631a5a3b144bbb4d2ea6fd256d, type: 2}
+  scenes:
+  - {fileID: 11400000, guid: 11d3985388c65714a8b32d79c11a5041, type: 2}
+  - {fileID: 11400000, guid: 2aa8da2275bb6824093599e85458c01b, type: 2}
+  - {fileID: 11400000, guid: 3eb7931bb56a0d840b064ca5e47dc556, type: 2}
+  - {fileID: 11400000, guid: 23ce5d2b60fb3d5459fea791ec0f6aea, type: 2}
+  - {fileID: 11400000, guid: 9f68782d476956a41a367dc6816e694f, type: 2}
+  - {fileID: 11400000, guid: 6a77082ad9a37fc4a8283776ba8cfea2, type: 2}
+  - {fileID: 11400000, guid: 03f77e0aa74e46848b098ca8dd4191cd, type: 2}
+  - {fileID: 11400000, guid: 9aee1baafa2f8bd42b3396c26c85c09a, type: 2}
+  - {fileID: 11400000, guid: 0bdfd7c214b3bfc4cbad9d0f5797843c, type: 2}
+  - {fileID: 11400000, guid: 773a98d634b485747881519ecd6fd2fd, type: 2}
+  - {fileID: 11400000, guid: 5bd2d5281d650d4488c7776dbd98ff19, type: 2}
+  collections:
+  - {fileID: 11400000, guid: 263f05531b9af1940bdffe0493065a18, type: 2}
+  - {fileID: 11400000, guid: 97f782422d0867140bd92658ecfc3ad7, type: 2}
+  - {fileID: 11400000, guid: 71929dcb999eecc42954ce3b4c79f320, type: 2}
+  m_settings: {fileID: 11400000, guid: 44c05b45831948e409cc3d1c3af5e43f, type: 2}
+  m_collectionManager: {fileID: 11400000, guid: 008ea0750491a664fa70a188425b0e53,
+    type: 2}
+  m_standaloneManager: {fileID: 11400000, guid: 53deb02e3adeb534eba95f07c7e5b7b0,
+    type: 2}
+  m_sceneHelper: {fileID: 11400000, guid: 488878573b3f36446ae9ad9b1975bd08, type: 2}
+  m_addressablesAddressMappings: {fileID: 11400000, guid: 15e6a079202343845b2e8ccb84993b44,
+    type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ASMSettings
   m_EditorClassIdentifier: 
   m_defaultProfile: {fileID: 0}
-  m_buildProfile: {fileID: 0}
+  m_buildProfile: {fileID: 11400000, guid: 1b2894631a5a3b144bbb4d2ea6fd256d, type: 2}
   m_unitySplashScreenColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
   m_inGameToolbarEnabled: 1
   m_inGameToolbarExpandedByDefault: 0
