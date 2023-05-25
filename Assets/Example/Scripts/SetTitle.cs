@@ -1,6 +1,6 @@
-﻿using AdvancedSceneManager.Callbacks;
+﻿using System.Collections;
+using AdvancedSceneManager.Callbacks;
 using AdvancedSceneManager.Models;
-using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -12,7 +12,7 @@ public class SetTitle : MonoBehaviour, ICollectionOpen
     public IEnumerator OnCollectionOpen(SceneCollection collection)
     {
         if (text != null)
-            text.text = collection.ExtraData<ExtraDataASM>().levelName;
+            text.text = collection.UserData<UserDataASM>().levelName;
 
         yield break;
     }

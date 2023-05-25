@@ -1,5 +1,5 @@
-﻿using AdvancedSceneManager.Models;
-using System.Linq;
+﻿using System.Linq;
+using AdvancedSceneManager.Models;
 using UnityEngine;
 
 
@@ -14,7 +14,7 @@ public class LevelSelector : MonoBehaviour
         foreach (var item in Search)
         {
             GameObject newbutton = Instantiate(prefab, transform);
-            ExtraDataASM data = (ExtraDataASM)item.extraData;
+            UserDataASM data = (UserDataASM)item.userData;
             newbutton.GetComponent<LevelSelectorButton>().ApplyData(data.levelName, item);
         }
     }
