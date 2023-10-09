@@ -9,8 +9,10 @@ public class LevelSelector : MonoBehaviour
 
     void Start()
     {
-        var Search = Profile.current.collections.Where(c => c.name.Contains("Level_"));
+        // Grab all collections that contains the word "Level"
+        var Search = Profile.current.collections.Where(c => c.name.Contains("Level"));
 
+        // Instanciate a button for each collection, and add image and text from User data.
         foreach (var item in Search)
         {
             GameObject newbutton = Instantiate(prefab, transform);

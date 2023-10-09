@@ -4,7 +4,7 @@ using AdvancedSceneManager.Models;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SetTitle : MonoBehaviour, ICollectionOpen
+public class SetTitle : MonoBehaviour, ICollectionOpenAsync
 {
     public Text text;
     // Start is called before the first frame update

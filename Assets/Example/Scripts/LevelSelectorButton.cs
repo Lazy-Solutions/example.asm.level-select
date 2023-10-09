@@ -10,7 +10,7 @@ public class LevelSelectorButton : MonoBehaviour
 
     public void OpenLevel()
     {
-        SceneHelper.current.Open(collection);
+        collection.Open();
     }
 
     public void ApplyData(string text, SceneCollection collection)
