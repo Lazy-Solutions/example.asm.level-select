@@ -1,6 +1,8 @@
 # Level select example
 An example for Advanced Scene Manager that shows how to setup a simple level select menu.
 
+The example contains 2 versions, [asm-2.0](https://github.com/Lazy-Solutions/example.asm.level-select/tree/asm-2.0), [asm-1.9](https://github.com/Lazy-Solutions/example.asm.level-select/tree/asm-1.9)
+
 Usage:
 1. Clone this project.
 2. Open project, Unity LTS version recommended.
