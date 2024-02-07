@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/AdvancedSceneManager/System/Defaults/Fade Loading Screen.unity
   m_assetID: cbffd398304640d4ab3cb4e7f79b7bdf
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

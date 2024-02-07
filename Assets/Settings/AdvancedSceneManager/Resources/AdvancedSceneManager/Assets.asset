@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a744da6216a3f214fa94c8752792e9b5, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: 
+  m_path: Assets/Settings/AdvancedSceneManager/Resources/AdvancedSceneManager
+  m_profiles:
+  - {fileID: 11400000, guid: 1b2894631a5a3b144bbb4d2ea6fd256d, type: 2}
+  m_scenes:
+  - {fileID: 11400000, guid: 0f4f0390e7e01bb469efb635dbc3b4e6, type: 2}
+  - {fileID: 11400000, guid: 464260ba668c2c94089a6b86c87f6811, type: 2}
+  - {fileID: 11400000, guid: 4daf35d1571877a418a71ff3a732b12d, type: 2}
+  - {fileID: 11400000, guid: 53d95daf571cb39438a6be1f531cbe12, type: 2}
+  - {fileID: 11400000, guid: 67c9750c86c1ebe439c9c625af575ea2, type: 2}
+  - {fileID: 11400000, guid: 6b5f2ed4c55556044b1a9fd9ce3da55a, type: 2}
+  - {fileID: 11400000, guid: 6db0228ef3c36d644929724d738bea99, type: 2}
+  - {fileID: 11400000, guid: 94b36d2a516e77f42a544f4f02f2dfba, type: 2}
+  - {fileID: 11400000, guid: a7d6a4f3318db34499d40753248d797d, type: 2}
+  - {fileID: 11400000, guid: ad878071cbc382d499c990b575b68bec, type: 2}
+  - {fileID: 11400000, guid: d491ad6e34760ed4abb5329b19705be8, type: 2}
+  - {fileID: 11400000, guid: dd979129222068144a9d61220b52fc0d, type: 2}
+  m_collections:
+  - {fileID: 11400000, guid: 263f05531b9af1940bdffe0493065a18, type: 2}
+  - {fileID: 11400000, guid: 71929dcb999eecc42954ce3b4c79f320, type: 2}
+  - {fileID: 11400000, guid: 8e41829088979dd41a1536546fe46984, type: 2}
+  - {fileID: 11400000, guid: 97f782422d0867140bd92658ecfc3ad7, type: 2}
+  m_settings: {fileID: 11400000, guid: 44c05b45831948e409cc3d1c3af5e43f, type: 2}
+  m_collectionManager: {fileID: 11400000, guid: 3ed4e63ccb3fd8f4b9e94c151c2088f0,
+    type: 2}
+  m_standaloneManager: {fileID: 11400000, guid: 96234d5429a6f2c419de3c048a4a78a1,
+    type: 2}
+  m_sceneHelper: {fileID: 11400000, guid: 023ac68340bae8c4b9d32c2ec91039c6, type: 2}

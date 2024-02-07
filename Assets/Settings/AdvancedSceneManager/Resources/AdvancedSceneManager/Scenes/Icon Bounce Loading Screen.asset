@@ -15,3 +15,5 @@ MonoBehaviour:
   m_path: Assets/AdvancedSceneManager/System/Defaults/IconBounce/Icon Bounce Loading
     Screen.unity
   m_assetID: 76635b856d46593498d486a865203344
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

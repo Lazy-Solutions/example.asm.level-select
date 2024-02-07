@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/AdvancedSceneManager/System/Defaults/PressAnyButton/PressAnyButtonLoadingScreen.unity
   m_assetID: 0ad62d312b15063489bd01a22c89b0e8
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

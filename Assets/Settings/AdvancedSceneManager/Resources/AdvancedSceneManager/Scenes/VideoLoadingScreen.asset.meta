@@ -1,7 +1,5 @@
 fileFormatVersion: 2
-guid: 03f77e0aa74e46848b098ca8dd4191cd
-labels:
-- ASM:LoadingScreen
+guid: 6b5f2ed4c55556044b1a9fd9ce3da55a
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

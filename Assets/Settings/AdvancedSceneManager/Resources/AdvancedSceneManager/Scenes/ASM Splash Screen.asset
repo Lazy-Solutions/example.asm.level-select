@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/AdvancedSceneManager/System/Defaults/ASM Splash Screen.unity
   m_assetID: d8ac8f99a18230449b778006fc9a8795
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

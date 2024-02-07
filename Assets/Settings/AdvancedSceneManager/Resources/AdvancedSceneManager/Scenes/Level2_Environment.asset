@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/Example/Scenes/Level2/Level2_Environment.unity
   m_assetID: dbf4ad9b1ea82ce49a0fee54fa0fb394
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

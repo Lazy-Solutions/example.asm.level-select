@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/Example/Scenes/Main menu.unity
   m_assetID: fb397104b0899b541ad9e3e77889149e
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

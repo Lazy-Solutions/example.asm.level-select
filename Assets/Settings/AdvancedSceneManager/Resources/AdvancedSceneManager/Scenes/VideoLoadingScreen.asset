@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/AdvancedSceneManager/System/Defaults/Video/VideoLoadingScreen.unity
   m_assetID: 23eabc53aeaf5b640a5308126ea626d3
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0

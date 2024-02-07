@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_path: Assets/AdvancedSceneManager/System/Defaults/Quote/Quote Loading Screen.unity
   m_assetID: a60bdb19550b79e4780c5e21533b274f
+  m_isLoadingScreen: 0
+  m_isSplashScreen: 0
