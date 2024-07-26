@@ -1,9 +1,4 @@
-﻿#if UNITY_EDITOR && !ASM
-
-using UnityEditor;
-using UnityEngine;
-
-static class Example
+﻿static class Example
 {
 
     [InitializeOnLoadMethod]
@@ -55,4 +50,3 @@ static class Example
     }
 
 }
-#endif
