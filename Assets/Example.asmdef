@@ -1,0 +1,20 @@
+{
+    "name": "Example",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.lazy.advanced-scene-manager",
+            "expression": "2.2",
+            "define": "ASM"
+        }
+    ],
+    "noEngineReferences": false
+}

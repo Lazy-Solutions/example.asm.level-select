@@ -1,9 +1,8 @@
 {
-    "name": "AdvancedSceneManager.Tutorials.level-select",
+    "name": "AdvancedSceneManager.Examples.level-select",
     "rootNamespace": "",
     "references": [
-        "GUID:2c6f01f5d27984343bd2e98e1116e8fd",
-        "GUID:431c2c8c352b87441a5d5312d0b3c500"
+        "GUID:2c6f01f5d27984343bd2e98e1116e8fd"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -12,8 +11,14 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "ADVANCED_SCENE_MANAGER"
+        "ASM"
     ],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.lazy.advanced-scene-manager",
+            "expression": "2.2",
+            "define": "ASM"
+        }
+    ],
     "noEngineReferences": false
 }

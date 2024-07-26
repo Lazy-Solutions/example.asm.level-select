@@ -22,12 +22,48 @@ MonoBehaviour:
   m_loadingScreenUsage: 1
   m_loadingScreen: {fileID: 0}
   m_activeScene: {fileID: 11400000, guid: 04467b87dde3f7241b48867037040f61, type: 2}
-  hasSetDefaultActiveScene: 0
+  m_setActiveSceneWhenOpenedAsAdditive: 0
   m_unloadUnusedAssets: 1
   m_openAsPersistent: 0
   m_openAsDisabled: 0
   m_extraData: {fileID: 11400000, guid: fb38a7237399d3d4f889cafae3e8b09d, type: 2}
   m_startupOption: 0
+  m_loadingPriority: -2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &-3516081496858300935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Example - Startup
+  m_EditorClassIdentifier: 
+  m_id: mg90059w.div
+  m_title: Startup
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: 2a1c8d7afbb38354fa8845260f2c9c5b, type: 2}
+  m_prefix: 'Example - '
+  m_loadingScreenUsage: 1
+  m_loadingScreen: {fileID: 0}
+  m_activeScene: {fileID: 0}
+  m_setActiveSceneWhenOpenedAsAdditive: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 1
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 1
   m_loadingPriority: -2
   m_isIncluded: 1
   m_isLocked: 0
@@ -50,39 +86,18 @@ MonoBehaviour:
   m_Name: Example
   m_EditorClassIdentifier: 
   m_id: nyq98k5j.4ee
+  m_loadingScene: {fileID: 11400000, guid: 83b108229be1dca4796fac9d2ac50e85, type: 2}
+  m_splashScene: {fileID: 11400000, guid: 657ba7dc4a81ddc42a1ec79263dbbb31, type: 2}
   m_startupScene: {fileID: 0}
-  m_loadingScreen: {fileID: 11400000, guid: 83b108229be1dca4796fac9d2ac50e85, type: 2}
-  m_splashScreen: {fileID: 11400000, guid: 657ba7dc4a81ddc42a1ec79263dbbb31, type: 2}
-  m_startupLoadingScreen: {fileID: 11400000, guid: 83b108229be1dca4796fac9d2ac50e85,
-    type: 2}
   m_backgroundLoadingPriority: 1
   m_enableChangingBackgroundLoadingPriority: 0
-  m_createCameraDuringStartup: 1
   m_unloadUnusedAssetsForStandalone: 1
   m_collections:
+  - {fileID: -3516081496858300935}
   - {fileID: 2153366581321408257}
   - {fileID: -4466749823510418336}
   - {fileID: 6175992089554773926}
-  m_dynamicCollections:
-  - m_id: D/e5NUaOd0+eGZkoPkw2Tg
-    m_path: Assets/AdvancedSceneManager/Defaults
-    m_title: ASM Defaults
-    m_description: 'These are scenes that ASM provides out-of-the-box as a convenience,
-      these are listed here to make sure they are included in build by default.
-
-
-      If
-      you aren''t using any of these, you may remove this dynamic collection.'
-    m_cachedPaths:
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/Fade/FadeLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/IconBounce/IconBounceLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/PressAnyButton/PressAnyButtonLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/ProgressBar/ProgressBarLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/Quote/QuoteLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Loading Screen/Video/VideoLoadingScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Other/DefaultPauseScreen.unity
-    - Assets/AdvancedSceneManager/Defaults/Other/InGameToolbar.unity
-    - Assets/AdvancedSceneManager/Defaults/Splash Screen/ASM_SplashScreen.unity
+  m_dynamicCollections: []
   m_standaloneDynamicCollection:
     m_id: 8sX1UWKxSEmUSa8rTFB8KQ
     m_scenes: []
@@ -111,7 +126,7 @@ MonoBehaviour:
   m_loadingScreenUsage: 1
   m_loadingScreen: {fileID: 0}
   m_activeScene: {fileID: 11400000, guid: 3a78f01b66b02b84eb8144f1630ea452, type: 2}
-  hasSetDefaultActiveScene: 0
+  m_setActiveSceneWhenOpenedAsAdditive: 0
   m_unloadUnusedAssets: 1
   m_openAsPersistent: 0
   m_openAsDisabled: 0
@@ -148,7 +163,7 @@ MonoBehaviour:
   m_loadingScreenUsage: 1
   m_loadingScreen: {fileID: 0}
   m_activeScene: {fileID: 11400000, guid: 04467b87dde3f7241b48867037040f61, type: 2}
-  hasSetDefaultActiveScene: 0
+  m_setActiveSceneWhenOpenedAsAdditive: 0
   m_unloadUnusedAssets: 1
   m_openAsPersistent: 0
   m_openAsDisabled: 0

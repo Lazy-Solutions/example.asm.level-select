@@ -12,6 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00a3dfc3979b132458a8f7f06f6b0d5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneData:
+    dict:
+      m_throw: 1
+      m_keys: []
+      m_values: []
   m_profiles:
   - {fileID: 11400000, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   m_scenes:
@@ -23,49 +28,36 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 94bd0d1dd271b6448bbc713bc425c4d9, type: 2}
   - {fileID: 11400000, guid: bff92060bb2f4484090ec57c0df8d58a, type: 2}
   - {fileID: 11400000, guid: c87aa9646fa3f7440a538ce07ff62850, type: 2}
-  - {fileID: 11400000, guid: 233a6e17ab2aa3a4aa8c3f6835768954, type: 2}
   - {fileID: 11400000, guid: 6cfc9aa88220b8c4c96d188bee28b6ad, type: 2}
   - {fileID: 11400000, guid: 9e80723bd30391f43948594799d429db, type: 2}
   - {fileID: 11400000, guid: 3a78f01b66b02b84eb8144f1630ea452, type: 2}
   - {fileID: 11400000, guid: 04467b87dde3f7241b48867037040f61, type: 2}
+  - {fileID: 11400000, guid: 0497cb6a1f4bf0141a0a53530f2ebda8, type: 2}
+  - {fileID: 11400000, guid: 2a1c8d7afbb38354fa8845260f2c9c5b, type: 2}
   m_collections:
   - {fileID: 2153366581321408257, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   - {fileID: -4466749823510418336, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   - {fileID: 6175992089554773926, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
+  - {fileID: -3516081496858300935, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   m_collectionTemplates: []
   m_sceneHelper: {fileID: 11400000, guid: ccdc1619da578fa44a6cb1497b5e7a05, type: 2}
-  m_fallbackScenePath: Assets/AdvancedSceneManager/ASM - Fallback scene.unity
+  m_defaultScenes: {fileID: 11400000, guid: b09d893c6dbacf541906e890a0840393, type: 2}
   m_defaultProfile: {fileID: 0}
-  m_forceProfile: {fileID: 0}
+  m_forceProfile: {fileID: 11400000, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   m_buildProfile: {fileID: 11400000, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4, type: 2}
   m_checkForDuplicateSceneOperations: 1
   m_preventSpammingEventMethods: 0
   m_spamCheckCooldown: 0.5
-  m_blacklist: []
-  sceneData:
-    dict:
-      m_throw: 1
-      m_keys: []
-      m_values: []
+  m_blacklistOld: []
+  m_whitelistOld: []
+  m_blacklist:
+    list: []
+  m_whitelist:
+    list: []
   m_enableCrossSceneReferences: 0
   m_sceneImportOption: 0
-  m_pauseScreenOptions:
-    m_enableInEditor: 0
-    m_enableInDevBuild: 0
-    m_enableInNonDevBuild: 0
-  m_inGameToolbarOptions:
-    m_enableInEditor: 0
-    m_enableInDevBuild: 0
-    m_enableInNonDevBuild: 0
   m_allowExcludingCollectionsFromBuild: 0
   m_reverseUnloadOrderOnCollectionClose: 1
-  m_asmInfo: {fileID: 11400000, guid: ff080580623f8384b901a47e8b333a3a, type: 2}
-  m_startProps:
-    displaySplashScreen: 1
-    forceOpenAllScenesOnCollection: 0
-    fadeInDuration: 1
-    fadeOutDuration: 0
-    openCollection: {fileID: 0}
   m_assetPath: Assets/Settings/AdvancedSceneManager
   m_customData:
     dict:
@@ -73,8 +65,10 @@ MonoBehaviour:
       m_keys: []
       m_values: []
   m_unitySplashScreenColor: {r: 0, g: 0, b: 0, a: 1}
-  m_allowSceneLocking: 1
-  m_allowCollectionLocking: 1
+  m_allowSceneLocking: 0
+  m_allowCollectionLocking: 0
   m_openCollection: {fileID: -4466749823510418336, guid: ae7aec6d6a4e5a14cbf16b3a7a71c8f4,
     type: 2}
   m_additiveCollections: []
+  m_fadeScene: {fileID: 11400000, guid: 83b108229be1dca4796fac9d2ac50e85, type: 2}
+  m_allowLoadingScenesInParallel: 0

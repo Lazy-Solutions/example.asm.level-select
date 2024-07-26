@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: UI
   m_EditorClassIdentifier: 
   m_id: 5qxup2wg.tuc
-  m_sceneAsset: {fileID: 102900000, guid: 7a46ec0df3e5a554a8b93b416fef9374, type: 3}
   m_path: Assets/Example/Scenes/UI.unity
+  m_sceneAsset: {fileID: 102900000, guid: 7a46ec0df3e5a554a8b93b416fef9374, type: 3}
   m_isLoadingScreen: 0
   m_isSplashScreen: 0
   m_keepOpenWhenCollectionsClose: 0
   m_keepOpenWhenNewCollectionWouldReopen: 1
   m_openOnStartup: 0
+  m_openOnPlayMode: 0
   m_autoOpenInEditor: 0
   m_autoOpenInEditorScenes: []
   m_isLocked: 0
   m_lockMessage: 
+  m_crossSceneReferences: []
   m_sceneLoader: 

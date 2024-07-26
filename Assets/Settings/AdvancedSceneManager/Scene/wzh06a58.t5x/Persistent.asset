@@ -10,18 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 143365c1c80370a48a4c89e0b158bf44, type: 3}
-  m_Name: Main menu
+  m_Name: Persistent
   m_EditorClassIdentifier: 
-  m_id: siummk54.753
-  m_path: Assets/Example/Scenes/Main menu.unity
-  m_sceneAsset: {fileID: 102900000, guid: fb397104b0899b541ad9e3e77889149e, type: 3}
+  m_id: wzh06a58.t5x
+  m_path: Assets/Example/Scenes/Persistent.unity
+  m_sceneAsset: {fileID: 102900000, guid: a1407f5f15d6b1147a915e9025bb98e1, type: 3}
   m_isLoadingScreen: 0
   m_isSplashScreen: 0
   m_keepOpenWhenCollectionsClose: 0
   m_keepOpenWhenNewCollectionWouldReopen: 1
   m_openOnStartup: 0
   m_openOnPlayMode: 0
-  m_autoOpenInEditor: 0
+  m_autoOpenInEditor: 2
   m_autoOpenInEditorScenes: []
   m_isLocked: 0
   m_lockMessage: 
