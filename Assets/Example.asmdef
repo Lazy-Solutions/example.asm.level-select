@@ -8,7 +8,10 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "!ASM",
+        "UNITY_EDITOR"
+    ],
     "versionDefines": [
         {
             "name": "com.lazy.advanced-scene-manager",
