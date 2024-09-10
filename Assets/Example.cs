@@ -1,4 +1,7 @@
-﻿static class Example
+﻿using UnityEditor;
+using UnityEngine;
+
+static class Example
 {
 
     [InitializeOnLoadMethod]
